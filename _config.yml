@@ -21,11 +21,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Linhua Zou"
-  avatar           : "images/android-chrome-512x512.png"
+  name             : "Linhua Zou (邹林华)"
+  avatar           : "images/zlh.jpg"
   bio              : "Incoming PhD student at the School of Automation, Central South University. My current research focuses on extreme regression modeling."
   location         : "Changsha, China"
-  employer         : "School of Automation, Central South University"
+  employer         : 
   pubmed           : 
   googlescholar    : 
   email            : "linhuazou00@163.com"
