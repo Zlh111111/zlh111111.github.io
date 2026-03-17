@@ -54,11 +54,67 @@ If you are seeking any form of academic cooperation, please feel free to email m
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA 2025</div><img src='images/2025-ESWA-FSAKE.png' alt="FSAKE" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Linhua Zou**, Jie Jin, Dongqing Li, Hong Zhao\*
+
+[FSAKE: Few-Shot Graph Learning via Adaptive Neighbor Class Knowledge Embedding](https://www.sciencedirect.com/science/article/pii/S0957417425014903)
+
+*In: Expert Systems with Applications (ESWA), 2025, 285: 127868.*
+
+[\[Paper\]](papers/2025-ESWA-FSAKE.pdf) [\[Code\]](https://github.com/fhqxa/FSAKE)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INS 2025</div><img src='images/2025-INS-MACF.png' alt="MACF" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Zhiping Wu, Dongqing Li, **Linhua Zou**, Hong Zhao\*
+
+[Multi-Granularity Awareness via Cross Fusion for Few-Shot Learning](https://doi.org/10.1016/j.ins.2025.122209)
+
+*In: Information Sciences (INS), 2025, 714: 122209.*
+
+[\[Paper\]](papers/2025-INS-MACF.pdf) [\[Code\]](https://github.com/woodszp/MACF)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS 2025</div><img src='images/2025-KBS-FSPDF.png' alt="FSPDF" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Dongqing Li, Jie Jin, **Linhua Zou**, Hong Zhao\*
+
+[FSPDF: Few-Shot Learning with Progressive Dual-Domain Feature Fusion via Self-Supervised Learning](https://doi.org/10.1016/j.knosys.2025.113389)
+
+*In: Knowledge-Based Systems (KBS), 2025, 317: 113389.*
+
+[\[Paper\]](papers/2025-KBS-FSPDF.pdf) [\[Code\]](https://github.com/fhqxa/FSPDF)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">自动化学报 2025</div><img src='images/2025-AAS-CRAPF.png' alt="CRAPF" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Hong Zhao, Yangqing Zhong, Jie Jin, **Linhua Zou**
+
+[基于自适应原型特征类矫正的小样本学习方法](https://doi.org/10.16383/j.aas.c240312)
+
+*发表于《自动化学报》, 2025, 51(2): 475-484.*
+
+[\[Paper\]](papers/2025-自动化学报-CRAPF.pdf)
+
+</div>
+</div>
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.10* 研究生国家奖学金
+- *2023.12* “华为杯”第二十届中国研究生数学建模竞赛，国家三等奖
+
 
 
 # 🌍 Visitors
