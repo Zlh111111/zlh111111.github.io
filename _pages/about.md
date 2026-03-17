@@ -36,7 +36,7 @@ If you are seeking any form of academic cooperation, please feel free to email m
 - *2025.04*: &nbsp;🎉 Our paper “Multi-Granularity Awareness via Cross Fusion for Few-Shot Learning” is accepted by Information Sciences (INS).
 - *2025.02*: &nbsp;🎉 Our paper “FSPDF: Few-Shot Learning with Progressive Dual-Domain Feature Fusion via Self-Supervised Learning” is accepted by Knowledge-Based Systems (KBS).
 - *2024.08*: &nbsp;🎉 Our paper “基于自适应原型特征类矫正的小样本学习方法” is accepted by 自动化学报 (ACTA AUTOMATICA SINICA).
-- 
+
 
 # 📝 Publications 
 
