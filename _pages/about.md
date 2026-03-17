@@ -23,7 +23,7 @@ I am currently pursuing a Ph.D. at the School of Automation at Central South Uni
 - Few-Shot Learning
 - Graph Neural Networks
 
-If you are seeking any form of academic cooperation, please feel free to email me at [\[linhuazou00@163.com\]](linhuazou00@163.com).
+If you are seeking any form of academic cooperation, please feel free to email me at [\linhuazou00@163.com\](linhuazou00@163.com).
 
 # 📖 Educations
 - *2026.09 - future*, PhD student, School of Automation, Central South University, China.
