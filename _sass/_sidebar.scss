@@ -120,7 +120,6 @@
 }
 
 .author__name {
-  white-space: nowrap;
   margin: 0;
 
   @include breakpoint($large) {
