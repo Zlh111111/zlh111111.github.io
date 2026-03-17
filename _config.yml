@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Linhua Zou"
+title                    : "Linhua Zou (邹林华)"
 description              : "Personal academic homepage of Linhua Zou."
 repository               : "Zlh111111/zlh111111.github.io"
 google_scholar_stats_use_cdn : true
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Linhua Zou"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Incoming PhD student at the School of Automation, Central South University, advised by Prof. Yun Wang. My research focuses on time series forecasting, especially extreme time series modeling."
+  bio              : "Incoming PhD student at the School of Automation, Central South University. My current research focuses on extreme regression modeling."
   location         : "Changsha, China"
   employer         : "School of Automation, Central South University"
   pubmed           : 
