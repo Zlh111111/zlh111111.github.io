@@ -152,7 +152,6 @@ author_profile: true
   </div>
 </div>
 
----
 
 # 📖 教育经历
 
@@ -160,16 +159,53 @@ author_profile: true
 - *2023.09 - 2026.06*，硕士，闽南师范大学计算机学院  
 - *2019.09 - 2023.06*，本科，闽南师范大学计算机学院  
 
----
 
 # 🎖 荣誉与奖励
 
 - *2025.10* 研究生国家奖学金  
 - *2023.12* “华为杯”第二十届中国研究生数学建模竞赛国家三等奖  
 
----
 
 # 🌍 访问统计
 
 {% include visitor_map.html %}
 
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  if (window.location.pathname === "/zh/" || window.location.pathname === "/zh") {
+    const navMap = {
+      "About Me": "关于我",
+      "Academic Service": "学术服务",
+      "News": "最新动态",
+      "Publications": "论文发表",
+      "Educations": "教育经历",
+      "Honors and Awards": "荣誉奖励",
+      "Visitors": "访问统计"
+    };
+
+    document.querySelectorAll(".greedy-nav .visible-links a").forEach(link => {
+      const text = link.textContent.trim();
+      if (navMap[text]) {
+        link.textContent = navMap[text];
+      }
+    });
+  }
+});
+</script>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  if (window.location.pathname === "/zh/" || window.location.pathname === "/zh") {
+    const bio = document.querySelector(".author__bio");
+    if (bio) {
+      bio.innerHTML = "中南大学自动化学院博士研究生";
+    }
+
+    document.querySelectorAll(".author__urls a").forEach(link => {
+      const text = link.textContent.trim();
+      if (text === "Central South University") link.textContent = "中南大学";
+      if (text === "School of Automation") link.textContent = "自动化学院";
+    });
+  }
+});
+</script>
