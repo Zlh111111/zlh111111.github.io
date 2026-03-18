@@ -26,7 +26,7 @@ I am currently pursuing a Ph.D. at the School of Automation at Central South Uni
 
 If you are seeking any form of academic cooperation, please feel free to email me at [linhuazou00@163.com](mailto:linhuazou00@163.com)
 
-📝📝📝 Reviewer for journals including Expert Systems with Applications (ESWA) and Pattern Recognition (PR).
+- 📝 Reviewer for journals including Expert Systems with Applications (ESWA) and Pattern Recognition (PR).
 
 # 📖 Educations
 - *2026.09 - now*, PhD student, School of Automation, Central South University, China.
