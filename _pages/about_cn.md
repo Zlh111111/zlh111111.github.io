@@ -3,6 +3,9 @@ permalink: /zh/
 title: ""
 excerpt: ""
 author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -12,12 +15,14 @@ author_profile: true
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+<span class='anchor' id='about-me'></span>
+
 <div class="lang-switch">
-  <a href="{{ '/' | relative_url }}">English</a> | <strong>简体中文</strong>
+  <strong>English</strong> | <a href="{{ '/zh/' | relative_url }}">简体中文</a>
 </div>
 
-# 🧑 关于我
-{: #about-me}
+
+# 🧑 About Me
 
 我目前在中南大学自动化学院攻读博士学位，主要从事极端回归建模相关研究，导师为 [汪运](https://faculty.csu.edu.cn/wangyun1/zh_CN/index.htm)。此前，我在闽南师范大学计算机学院完成了本科与硕士阶段的学习，导师为 [赵红](https://fhqxa.github.io//)。
 
@@ -29,14 +34,12 @@ author_profile: true
 
 如果您有任何学术合作意向，欢迎通过邮箱与我联系：[linhuazou00@163.com](mailto:linhuazou00@163.com)
 
-# 📝 学术服务
-{: #academic-service}
+# 📝 Academic Service
 
 - 审稿人：*Expert Systems with Applications (ESWA)*
 - 审稿人：*Pattern Recognition (PR)*
 
-# 🔥 最新动态
-{: #news}
+# 🔥 News
 
 - *2025.10*：🎉 论文 “[FCGNN: Fuzzy Cognitive Graph Neural Networks with Concept Evolution for Few-Shot Learning](#fcgnn)” 被 *IEEE Transactions on Fuzzy Systems (TFS)* 接收。
 - *2025.04*：🎉 论文 “[FSAKE: Few-Shot Graph Learning via Adaptive Neighbor Class Knowledge Embedding](#fsake)” 被 *Expert Systems with Applications (ESWA)* 接收。
@@ -44,8 +47,7 @@ author_profile: true
 - *2025.02*：🎉 论文 “[FSPDF: Few-Shot Learning with Progressive Dual-Domain Feature Fusion via Self-Supervised Learning](#fspdf)” 被 *Knowledge-Based Systems (KBS)* 接收。
 - *2024.08*：🎉 论文 “[基于自适应原型特征类矫正的小样本学习方法](#crapf)” 被 *自动化学报 (ACTA AUTOMATICA SINICA, AAS)* 接收。
 
-# 📝 论文发表
-{: #publications}
+# 📝 Publications
 
 <div class='paper-box' id="fcgnn">
   <div class='paper-box-image'>
@@ -147,66 +149,20 @@ author_profile: true
   </div>
 </div>
 
-# 📖 教育经历
-{: #educations}
+# 📖 Educations
 
 - *2026.09 - 至今*，博士研究生，中南大学自动化学院
 - *2023.09 - 2026.06*，硕士，闽南师范大学计算机学院
 - *2019.09 - 2023.06*，本科，闽南师范大学计算机学院
 
-# 🎖 荣誉与奖励
+# 🎖 Honors and Awards
 {: #honors-and-awards}
 
 - *2025.10* 研究生国家奖学金
 - *2023.12* “华为杯”第二十届中国研究生数学建模竞赛国家三等奖
 
-# 🌍 访问统计
-{: #visitors}
+# 🌍 Visitors
 
 {% include visitor_map.html %}
 
-<script>
-document.addEventListener("DOMContentLoaded", function () {
-  const isZh = window.location.pathname === "/zh/" || window.location.pathname === "/zh";
-  if (!isZh) return;
 
-  const navMap = {
-    "About Me": "关于我",
-    "Academic Service": "学术服务",
-    "News": "最新动态",
-    "Publications": "论文发表",
-    "Educations": "教育经历",
-    "Honors and Awards": "荣誉与奖励",
-    "Visitors": "访问统计"
-  };
-
-  document.querySelectorAll(".greedy-nav .visible-links a").forEach(link => {
-    const text = link.textContent.trim();
-    if (navMap[text]) link.textContent = navMap[text];
-  });
-
-  document.querySelectorAll(".greedy-nav .hidden-links a").forEach(link => {
-    const text = link.textContent.trim();
-    if (navMap[text]) link.textContent = navMap[text];
-  });
-
-  const bio = document.querySelector(".author__bio");
-  if (bio) {
-    bio.innerHTML = "中南大学自动化学院博士研究生";
-  }
-
-  const location = document.querySelector(".author__urls-wrapper .fa-fw.fa-map-marker-alt");
-  if (location && location.parentElement) {
-    const textNode = location.parentElement.childNodes[location.parentElement.childNodes.length - 1];
-    if (textNode && textNode.nodeType === Node.TEXT_NODE) {
-      textNode.textContent = " 中国，长沙";
-    }
-  }
-
-  document.querySelectorAll(".author__urls a").forEach(link => {
-    const txt = link.textContent.trim();
-    if (txt === "Email") link.textContent = "邮箱";
-    if (txt === "Github") link.textContent = "GitHub";
-  });
-});
-</script>
