@@ -118,12 +118,15 @@ Hong Zhao, Yangqing Zhong, Jie Jin, **Linhua Zou**
 </div>
 </div>
 
+
 # 📖 Educations
+
 - *2026.09 - now*, PhD student, School of Automation, Central South University, China.
 - *2023.09 - 2026.06*, Master, School of Computer Science, Minnan Normal University, China.
 - *2019.09 - 2023.06*, Undergraduate, School of Computer Science, Minnan Normal University, China.
 
 # 🎖 Honors and Awards
+
 - *2025.10* 研究生国家奖学金
 - *2023.12* “华为杯”第二十届中国研究生数学建模竞赛，国家三等奖
 
