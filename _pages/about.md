@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 🧑 About Me
+# 🧑 About Me <span style="float:right; font-size: 0.6em;"><strong>English</strong> | <a href="/zh/">简体中文</a></span>
 
 I am currently pursuing a Ph.D. at the School of Automation at Central South University, where I am conducting research on extreme regression modeling under the supervision of [Yun Wang](https://faculty.csu.edu.cn/wangyun1/zh_CN/index.htm). I graduated from the School of Computer Science at Minnan Normal University with a bachelor’s degree and earned my master’s degree from the same school under the supervision of [Hong Zhao](https://fhqxa.github.io//). 
 
