@@ -56,7 +56,7 @@ author_profile: true
   <div class='paper-box-image'>
     <div>
       <div class="badge">TFS 2026</div>
-      <img src='/images/2026-TSF-FCGNN.png' alt="FCGNN" width="100%">
+      <img src="{{ '/images/2026-TSF-FCGNN.png' | relative_url }}" alt="FCGNN" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
