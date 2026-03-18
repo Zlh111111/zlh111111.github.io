@@ -1,5 +1,5 @@
 ---
-permalink: /zh/
+permalink: /
 title: ""
 excerpt: ""
 author_profile: true
@@ -21,7 +21,6 @@ redirect_from:
   <strong>English</strong> | <a href="{{ '/zh/' | relative_url }}">简体中文</a>
 </div>
 
-
 # 🧑 About Me
 
 我目前在中南大学自动化学院攻读博士学位，主要从事极端回归建模相关研究，导师为 [汪运](https://faculty.csu.edu.cn/wangyun1/zh_CN/index.htm)。此前，我在闽南师范大学计算机学院完成了本科与硕士阶段的学习，导师为 [赵红](https://fhqxa.github.io//)。
@@ -35,25 +34,25 @@ redirect_from:
 如果您有任何学术合作意向，欢迎通过邮箱与我联系：[linhuazou00@163.com](mailto:linhuazou00@163.com)
 
 # 📝 Academic Service
-
 - 审稿人：*Expert Systems with Applications (ESWA)*
 - 审稿人：*Pattern Recognition (PR)*
 
-# 🔥 News
 
+# 🔥 News
 - *2025.10*：🎉 论文 “[FCGNN: Fuzzy Cognitive Graph Neural Networks with Concept Evolution for Few-Shot Learning](#fcgnn)” 被 *IEEE Transactions on Fuzzy Systems (TFS)* 接收。
 - *2025.04*：🎉 论文 “[FSAKE: Few-Shot Graph Learning via Adaptive Neighbor Class Knowledge Embedding](#fsake)” 被 *Expert Systems with Applications (ESWA)* 接收。
 - *2025.04*：🎉 论文 “[Multi-Granularity Awareness via Cross Fusion for Few-Shot Learning](#macf)” 被 *Information Sciences (INS)* 接收。
 - *2025.02*：🎉 论文 “[FSPDF: Few-Shot Learning with Progressive Dual-Domain Feature Fusion via Self-Supervised Learning](#fspdf)” 被 *Knowledge-Based Systems (KBS)* 接收。
 - *2024.08*：🎉 论文 “[基于自适应原型特征类矫正的小样本学习方法](#crapf)” 被 *自动化学报 (ACTA AUTOMATICA SINICA, AAS)* 接收。
 
-# 📝 Publications
+
+# 📝 Publications 
 
 <div class='paper-box' id="fcgnn">
   <div class='paper-box-image'>
     <div>
       <div class="badge">TFS 2026</div>
-      <img src="{{ '/images/2026-TSF-FCGNN.png' | relative_url }}" alt="FCGNN" width="100%">
+      <img src='images/2026-TSF-FCGNN.png' alt="FCGNN" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -64,7 +63,7 @@ redirect_from:
 
 *IEEE Transactions on Fuzzy Systems, 2026, 34(1): 41-52.*
 
-[\[论文\]]({{ '/papers/2026-TSF-FCGNN.pdf' | relative_url }}) [\[代码\]](https://github.com/Zlh111111/FCGNN)
+[\[论文\]](papers/2026-TSF-FCGNN.pdf) [\[代码\]](https://github.com/Zlh111111/FCGNN)
 
   </div>
 </div>
@@ -73,7 +72,7 @@ redirect_from:
   <div class='paper-box-image'>
     <div>
       <div class="badge">ESWA 2025</div>
-      <img src="{{ '/images/2025-ESWA-FSAKE.png' | relative_url }}" alt="FSAKE" width="100%">
+      <img src='images/2025-ESWA-FSAKE.png' alt="FSAKE" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -84,7 +83,7 @@ redirect_from:
 
 *Expert Systems with Applications, 2025, 285: 127868.*
 
-[\[论文\]]({{ '/papers/2025-ESWA-FSAKE.pdf' | relative_url }}) [\[代码\]](https://github.com/Zlh111111/FSAKE)
+[\[论文\]](papers/2025-ESWA-FSAKE.pdf) [\[代码\]](https://github.com/Zlh111111/FSAKE)
 
   </div>
 </div>
@@ -93,7 +92,7 @@ redirect_from:
   <div class='paper-box-image'>
     <div>
       <div class="badge">INS 2025</div>
-      <img src="{{ '/images/2025-INS-MACF.png' | relative_url }}" alt="MACF" width="100%">
+      <img src='images/2025-INS-MACF.png' alt="MACF" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -104,7 +103,7 @@ redirect_from:
 
 *Information Sciences, 2025, 714: 122209.*
 
-[\[论文\]]({{ '/papers/2025-INS-MACF.pdf' | relative_url }}) [\[代码\]](https://github.com/Zlh111111/MACF)
+[\[论文\]](papers/2025-INS-MACF.pdf) [\[论文\]](https://github.com/Zlh111111/MACF)
 
   </div>
 </div>
@@ -113,7 +112,7 @@ redirect_from:
   <div class='paper-box-image'>
     <div>
       <div class="badge">KBS 2025</div>
-      <img src="{{ '/images/2025-KBS-FSPDF.png' | relative_url }}" alt="FSPDF" width="100%">
+      <img src='images/2025-KBS-FSPDF.png' alt="FSPDF" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -124,7 +123,7 @@ redirect_from:
 
 *Knowledge-Based Systems, 2025, 317: 113389.*
 
-[\[论文\]]({{ '/papers/2025-KBS-FSPDF.pdf' | relative_url }}) [\[代码\]](https://github.com/Zlh111111/FSPDF)
+[\[论文\]](papers/2025-KBS-FSPDF.pdf) [\[代码\]](https://github.com/Zlh111111/FSPDF)
 
   </div>
 </div>
@@ -133,7 +132,7 @@ redirect_from:
   <div class='paper-box-image'>
     <div>
       <div class="badge">自动化学报 2025</div>
-      <img src="{{ '/images/2025-AAS-CRAPF.png' | relative_url }}" alt="CRAPF" width="100%">
+      <img src='images/2025-AAS-CRAPF.png' alt="CRAPF" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -144,25 +143,27 @@ redirect_from:
 
 *自动化学报, 2025, 51(02): 475-484.*
 
-[\[论文\]]({{ '/papers/2025-自动化学报-CRAPF.pdf' | relative_url }})
+[\[论文\]](papers/2025-自动化学报-CRAPF.pdf)
 
   </div>
 </div>
 
 # 📖 Educations
 
-- *2026.09 - 至今*，博士研究生，中南大学自动化学院
+- *2026.09 - 至今*，博士在读，中南大学自动化学院
 - *2023.09 - 2026.06*，硕士，闽南师范大学计算机学院
 - *2019.09 - 2023.06*，本科，闽南师范大学计算机学院
 
 # 🎖 Honors and Awards
-{: #honors-and-awards}
 
 - *2025.10* 研究生国家奖学金
-- *2023.12* “华为杯”第二十届中国研究生数学建模竞赛国家三等奖
+- *2023.12* “华为杯”第二十届中国研究生数学建模竞赛，国家三等奖
+
+
 
 # 🌍 Visitors
 
 {% include visitor_map.html %}
 
 
+  
