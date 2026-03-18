@@ -44,8 +44,13 @@ If you are seeking any form of academic cooperation, please feel free to email m
 # 📝 Publications 
 
 <div class='paper-box' id="fcgnn">
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TFS 2026</div><img src='images/2026-TSF-FCGNN.png' alt="FCGNN" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">TFS 2026</div>
+      <img src='images/2026-TSF-FCGNN.png' alt="FCGNN" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
 
 [FCGNN: Fuzzy Cognitive Graph Neural Networks with Concept Evolution for Few-Shot Learning](https://ieeexplore.ieee.org/document/11202657)
 
@@ -55,12 +60,17 @@ If you are seeking any form of academic cooperation, please feel free to email m
 
 [\[Paper\]](papers/2026-TSF-FCGNN.pdf) [\[Code\]](https://github.com/Zlh111111/FCGNN)
 
-</div>
+  </div>
 </div>
 
 <div class='paper-box' id="fsake">
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA 2025</div><img src='images/2025-ESWA-FSAKE.png' alt="FSAKE" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ESWA 2025</div>
+      <img src='images/2025-ESWA-FSAKE.png' alt="FSAKE" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
 
 [FSAKE: Few-Shot Graph Learning via Adaptive Neighbor Class Knowledge Embedding](https://www.sciencedirect.com/science/article/pii/S0957417425014903)
 
@@ -70,12 +80,17 @@ If you are seeking any form of academic cooperation, please feel free to email m
 
 [\[Paper\]](papers/2025-ESWA-FSAKE.pdf) [\[Code\]](https://github.com/Zlh111111/FSAKE)
 
-</div>
+  </div>
 </div>
 
 <div class='paper-box' id="macf">
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INS 2025</div><img src='images/2025-INS-MACF.png' alt="MACF" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">INS 2025</div>
+      <img src='images/2025-INS-MACF.png' alt="MACF" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
 
 [Multi-Granularity Awareness via Cross Fusion for Few-Shot Learning](https://doi.org/10.1016/j.ins.2025.122209)
 
@@ -85,12 +100,17 @@ Zhiping Wu, Dongqing Li, **Linhua Zou**, Hong Zhao\*
 
 [\[Paper\]](papers/2025-INS-MACF.pdf) [\[Code\]](https://github.com/Zlh111111/MACF)
 
-</div>
+  </div>
 </div>
 
 <div class='paper-box' id="fspdf">
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS 2025</div><img src='images/2025-KBS-FSPDF.png' alt="FSPDF" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">KBS 2025</div>
+      <img src='images/2025-KBS-FSPDF.png' alt="FSPDF" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
 
 [FSPDF: Few-Shot Learning with Progressive Dual-Domain Feature Fusion via Self-Supervised Learning](https://doi.org/10.1016/j.knosys.2025.113389)
 
@@ -100,12 +120,17 @@ Dongqing Li, Jie Jin, **Linhua Zou**, Hong Zhao\*
 
 [\[Paper\]](papers/2025-KBS-FSPDF.pdf) [\[Code\]](https://github.com/Zlh111111/FSPDF)
 
-</div>
+  </div>
 </div>
 
 <div class='paper-box' id="crapf">
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">自动化学报 2025</div><img src='images/2025-AAS-CRAPF.png' alt="CRAPF" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">自动化学报 2025</div>
+      <img src='images/2025-AAS-CRAPF.png' alt="CRAPF" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
 
 [基于自适应原型特征类矫正的小样本学习方法](https://doi.org/10.16383/j.aas.c240312)
 
@@ -115,9 +140,8 @@ Hong Zhao, Yangqing Zhong, Jie Jin, **Linhua Zou**
 
 [\[Paper\]](papers/2025-自动化学报-CRAPF.pdf)
 
+  </div>
 </div>
-</div>
-
 
 # 📖 Educations
 
