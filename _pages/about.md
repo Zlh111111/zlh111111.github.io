@@ -20,14 +20,14 @@ redirect_from:
 # 🧑 About Me
 
 I am currently pursuing a Ph.D. at the School of Automation at Central South University, where I am conducting research on extreme regression modeling under the supervision of [Yun Wang](https://faculty.csu.edu.cn/wangyun1/zh_CN/index.htm). I graduated from the School of Computer Science at Minnan Normal University with a bachelor’s degree and earned my master’s degree from the same school under the supervision of [Hong Zhao](https://fhqxa.github.io//). I am interested in the following topics:
-- Time Series Forecasting (Extreme Time Series Modeling)
+- Time Series Forecasting (Extreme Regression Modeling)
 - Few-Shot Learning
 - Graph Neural Networks
 
 If you are seeking any form of academic cooperation, please feel free to email me at [linhuazou00@163.com](mailto:linhuazou00@163.com)
 
 # 📖 Educations
-- *2026.09 - future*, PhD student, School of Automation, Central South University, China.
+- *2026.09 - now*, PhD student, School of Automation, Central South University, China.
 - *2023.09 - 2026.06*, Master, School of Computer Science, Minnan Normal University, China.
 - *2019.09 - 2023.06*, Undergraduate, School of Computer Science, Minnan Normal University, China.
 
@@ -44,11 +44,11 @@ If you are seeking any form of academic cooperation, please feel free to email m
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TFS 2026</div><img src='images/2026-TSF-FCGNN.png' alt="FCGNN" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Linhua Zou**, Dongqing Li, Cheng Jiang, Yu Wang, Hong Zhao\*
-
 [FCGNN: Fuzzy Cognitive Graph Neural Networks with Concept Evolution for Few-Shot Learning](https://ieeexplore.ieee.org/document/11202657)
 
-*In: IEEE Transactions on Fuzzy Systems (TFS), 2026, 34(1): 41-52.*
+**Linhua Zou**, Dongqing Li, Cheng Jiang, Yu Wang, Hong Zhao\*
+
+*IEEE Transactions on Fuzzy Systems (TFS), 2026, 34(1): 41-52.*
 
 [\[Paper\]](papers/2026-TSF-FCGNN.pdf) [\[Code\]](https://github.com/fhqxa/FCGNN)
 
@@ -58,11 +58,11 @@ If you are seeking any form of academic cooperation, please feel free to email m
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA 2025</div><img src='images/2025-ESWA-FSAKE.png' alt="FSAKE" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Linhua Zou**, Jie Jin, Dongqing Li, Hong Zhao\*
-
 [FSAKE: Few-Shot Graph Learning via Adaptive Neighbor Class Knowledge Embedding](https://www.sciencedirect.com/science/article/pii/S0957417425014903)
 
-*In: Expert Systems with Applications (ESWA), 2025, 285: 127868.*
+**Linhua Zou**, Jie Jin, Dongqing Li, Hong Zhao\*
+
+*Expert Systems with Applications (ESWA), 2025, 285: 127868.*
 
 [\[Paper\]](papers/2025-ESWA-FSAKE.pdf) [\[Code\]](https://github.com/fhqxa/FSAKE)
 
@@ -72,11 +72,11 @@ If you are seeking any form of academic cooperation, please feel free to email m
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">INS 2025</div><img src='images/2025-INS-MACF.png' alt="MACF" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Zhiping Wu, Dongqing Li, **Linhua Zou**, Hong Zhao\*
-
 [Multi-Granularity Awareness via Cross Fusion for Few-Shot Learning](https://doi.org/10.1016/j.ins.2025.122209)
 
-*In: Information Sciences (INS), 2025, 714: 122209.*
+Zhiping Wu, Dongqing Li, **Linhua Zou**, Hong Zhao\*
+
+*Information Sciences (INS), 2025, 714: 122209.*
 
 [\[Paper\]](papers/2025-INS-MACF.pdf) [\[Code\]](https://github.com/woodszp/MACF)
 
@@ -86,11 +86,11 @@ Zhiping Wu, Dongqing Li, **Linhua Zou**, Hong Zhao\*
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS 2025</div><img src='images/2025-KBS-FSPDF.png' alt="FSPDF" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Dongqing Li, Jie Jin, **Linhua Zou**, Hong Zhao\*
-
 [FSPDF: Few-Shot Learning with Progressive Dual-Domain Feature Fusion via Self-Supervised Learning](https://doi.org/10.1016/j.knosys.2025.113389)
 
-*In: Knowledge-Based Systems (KBS), 2025, 317: 113389.*
+Dongqing Li, Jie Jin, **Linhua Zou**, Hong Zhao\*
+
+*Knowledge-Based Systems (KBS), 2025, 317: 113389.*
 
 [\[Paper\]](papers/2025-KBS-FSPDF.pdf) [\[Code\]](https://github.com/fhqxa/FSPDF)
 
@@ -100,11 +100,11 @@ Dongqing Li, Jie Jin, **Linhua Zou**, Hong Zhao\*
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">自动化学报 2025</div><img src='images/2025-AAS-CRAPF.png' alt="CRAPF" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Hong Zhao, Yangqing Zhong, Jie Jin, **Linhua Zou**
-
 [基于自适应原型特征类矫正的小样本学习方法](https://doi.org/10.16383/j.aas.c240312)
 
-*发表于《自动化学报》, 2025, 51(2): 475-484.*
+Hong Zhao, Yangqing Zhong, Jie Jin, **Linhua Zou**
+
+*自动化学报, 2025, 51(02): 475-484.*
 
 [\[Paper\]](papers/2025-自动化学报-CRAPF.pdf)
 
