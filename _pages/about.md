@@ -19,10 +19,12 @@ redirect_from:
 
 # 🧑 About Me
 
-I am currently pursuing a Ph.D. at the School of Automation at Central South University, where I am conducting research on extreme regression modeling under the supervision of [Yun Wang](https://faculty.csu.edu.cn/wangyun1/zh_CN/index.htm). I graduated from the School of Computer Science at Minnan Normal University with a bachelor’s degree and earned my master’s degree from the same school under the supervision of [Hong Zhao](https://fhqxa.github.io//). I am interested in the following topics:
-- Time Series Forecasting (Extreme Regression Modeling)
-- Few-Shot Learning
-- Graph Neural Networks
+I am currently pursuing a Ph.D. at the School of Automation at Central South University, where I am conducting research on extreme regression modeling under the supervision of [Yun Wang](https://faculty.csu.edu.cn/wangyun1/zh_CN/index.htm). I graduated from the School of Computer Science at Minnan Normal University with a bachelor’s degree and earned my master’s degree from the same school under the supervision of [Hong Zhao](https://fhqxa.github.io//). 
+
+My research interests are in the areas of Computer Vision (CV) and Time Series Forecasting (TSF). I am currently focusing on the following topics:
+- Extreme Regression Modeling
+- Few-Shot Learning (FSL)
+- Graph Neural Networks (GNNs)
 
 If you are seeking any form of academic cooperation, please feel free to email me at [linhuazou00@163.com](mailto:linhuazou00@163.com)
 
