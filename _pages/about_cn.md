@@ -14,7 +14,11 @@ author_profile: true
 
 <span class='anchor' id='about-me'></span>
 
-# 🧑 关于我 <span style="float:right; font-size: 0.6em;"><a href="/">English</a> | <strong>简体中文</strong></span>
+<div class="lang-switch">
+  <a href="{{ '/' | relative_url }}">English</a> | <strong>简体中文</strong>
+</div>
+
+# 🧑 关于我 
 
 我目前在中南大学自动化学院攻读博士学位，主要从事极端回归建模相关研究，导师为[汪运](https://faculty.csu.edu.cn/wangyun1/zh_CN/index.htm)。此前，我在闽南师范大学计算机学院完成了本科与硕士阶段的学习，导师为[赵红。(https://fhqxa.github.io//)。
 
