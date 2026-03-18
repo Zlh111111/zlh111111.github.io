@@ -50,7 +50,7 @@ If you are seeking any form of academic cooperation, please feel free to email m
 
 *IEEE Transactions on Fuzzy Systems (TFS), 2026, 34(1): 41-52.*
 
-[\[Paper\]](papers/2026-TSF-FCGNN.pdf) [\[Code\]](https://github.com/fhqxa/FCGNN)
+[\[Paper\]](papers/2026-TSF-FCGNN.pdf) [\[Code\]](https://github.com/Zlh111111/FCGNN)
 
 </div>
 </div>
@@ -64,7 +64,7 @@ If you are seeking any form of academic cooperation, please feel free to email m
 
 *Expert Systems with Applications (ESWA), 2025, 285: 127868.*
 
-[\[Paper\]](papers/2025-ESWA-FSAKE.pdf) [\[Code\]](https://github.com/fhqxa/FSAKE)
+[\[Paper\]](papers/2025-ESWA-FSAKE.pdf) [\[Code\]](https://github.com/Zlh111111/FSAKE)
 
 </div>
 </div>
@@ -78,7 +78,7 @@ Zhiping Wu, Dongqing Li, **Linhua Zou**, Hong Zhao\*
 
 *Information Sciences (INS), 2025, 714: 122209.*
 
-[\[Paper\]](papers/2025-INS-MACF.pdf) [\[Code\]](https://github.com/woodszp/MACF)
+[\[Paper\]](papers/2025-INS-MACF.pdf) [\[Code\]](https://github.com/Zlh111111/MACF)
 
 </div>
 </div>
@@ -92,7 +92,7 @@ Dongqing Li, Jie Jin, **Linhua Zou**, Hong Zhao\*
 
 *Knowledge-Based Systems (KBS), 2025, 317: 113389.*
 
-[\[Paper\]](papers/2025-KBS-FSPDF.pdf) [\[Code\]](https://github.com/fhqxa/FSPDF)
+[\[Paper\]](papers/2025-KBS-FSPDF.pdf) [\[Code\]](https://github.com/Zlh111111/FSPDF)
 
 </div>
 </div>
