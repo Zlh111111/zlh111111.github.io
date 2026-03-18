@@ -1,11 +1,9 @@
 ---
+layout: single
 permalink: /zh/
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -18,8 +16,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <div class="lang-switch">
-  <strong>English</strong> | <a href="{{ '/zh/' | relative_url }}">简体中文</a>
+  <a href="{{ '/' | relative_url }}">English</a> | <strong>简体中文</strong>
 </div>
+
 
 # 🧑 About Me
 
