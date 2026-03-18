@@ -19,21 +19,19 @@ redirect_from:
 
 # 🧑 About Me
 
-I am currently pursuing a Ph.D. at the School of Automation at Central South University, where I am conducting research on extreme regression modeling under the supervision of [Yun Wang](https://faculty.csu.edu.cn/wangyun1/zh_CN/index.htm). I graduated from the School of Computer Science at Minnan Normal University with a bachelor’s degree and earned my master’s degree from the same school under the supervision of [Hong Zhao](https://fhqxa.github.io//). 
+I am currently pursuing a Ph.D. at the School of Automation at Central South University, where I am conducting research on extreme regression modeling under the supervision of **[Yun Wang]**(https://faculty.csu.edu.cn/wangyun1/zh_CN/index.htm). I graduated from the School of Computer Science at Minnan Normal University with a bachelor’s degree and earned my master’s degree from the same school under the supervision of **[Hong Zhao]**(https://fhqxa.github.io//). 
 
-My research interests are in the areas of Computer Vision (CV) and Time Series Forecasting (TSF). I am currently focusing on the following topics:
-- Extreme Regression Modeling
-- Few-Shot Learning (FSL)
-- Graph Neural Networks (GNNs)
+My research interests are in the areas of **Computer Vision (CV)** and **Time Series Forecasting (TSF)**. I am currently focusing on the following topics:
+- **Extreme Regression Modeling**
+- **Few-Shot Learning (FSL)**
+- **Graph Neural Networks (GNNs)**
 
 If you are seeking any form of academic cooperation, please feel free to email me at [linhuazou00@163.com](mailto:linhuazou00@163.com)
 
-- 📝 Reviewer for journals including Expert Systems with Applications (ESWA) and Pattern Recognition (PR).
+# 📝 Academic Service
+- Reviewer for Expert Systems with Applications (ESWA)
+- Reviewer for Pattern Recognition (PR).
 
-# 📖 Educations
-- *2026.09 - now*, PhD student, School of Automation, Central South University, China.
-- *2023.09 - 2026.06*, Master, School of Computer Science, Minnan Normal University, China.
-- *2019.09 - 2023.06*, Undergraduate, School of Computer Science, Minnan Normal University, China.
 
 # 🔥 News
 - *2025.10*: &nbsp;🎉 Our paper “FCGNN: Fuzzy Cognitive Graph Neural Networks with Concept Evolution for Few-Shot Learning” is accepted by IEEE Transactions on Fuzzy Systems (TFS). 
@@ -115,6 +113,10 @@ Hong Zhao, Yangqing Zhong, Jie Jin, **Linhua Zou**
 </div>
 </div>
 
+# 📖 Educations
+- *2026.09 - now*, PhD student, School of Automation, Central South University, China.
+- *2023.09 - 2026.06*, Master, School of Computer Science, Minnan Normal University, China.
+- *2019.09 - 2023.06*, Undergraduate, School of Computer Science, Minnan Normal University, China.
 
 # 🎖 Honors and Awards
 - *2025.10* 研究生国家奖学金
