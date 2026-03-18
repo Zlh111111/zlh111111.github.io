@@ -1,5 +1,4 @@
 ---
-layout: single
 permalink: /zh/
 title: ""
 excerpt: ""
