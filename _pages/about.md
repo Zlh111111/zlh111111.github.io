@@ -17,9 +17,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<div class="lang-switch">
-  <strong>English</strong> | <a href="{{ '/zh/' | relative_url }}">简体中文</a>
-</div>
 
 # 🧑 About Me
 
