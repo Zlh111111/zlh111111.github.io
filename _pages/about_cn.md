@@ -20,7 +20,7 @@ author_profile: true
 
 # 🧑 关于我 
 
-我目前在中南大学自动化学院攻读博士学位，主要从事极端回归建模相关研究，导师为[汪运](https://faculty.csu.edu.cn/wangyun1/zh_CN/index.htm)。此前，我在闽南师范大学计算机学院完成了本科与硕士阶段的学习，导师为[赵红。(https://fhqxa.github.io//)。
+我目前在中南大学自动化学院攻读博士学位，主要从事极端回归建模相关研究，导师为[汪运](https://faculty.csu.edu.cn/wangyun1/zh_CN/index.htm)。此前，我在闽南师范大学计算机学院完成了本科与硕士阶段的学习，导师为[赵红](https://fhqxa.github.io//)。
 
 我的研究方向主要包括 **计算机视觉（Computer Vision, CV）** 和 **时间序列预测（Time Series Forecasting, TSF）**，当前重点关注以下研究方向：
 
@@ -28,10 +28,7 @@ author_profile: true
 - **小样本学习（Few-Shot Learning, FSL）**
 - **图神经网络（Graph Neural Networks, GNNs）**
 
-如果您有任何学术合作意向，欢迎通过邮箱与我联系：  
-📧 [linhuazou00@163.com](mailto:linhuazou00@163.com)
-
----
+如果您有任何学术合作意向，欢迎通过邮箱与我联系：[linhuazou00@163.com](mailto:linhuazou00@163.com)
 
 # 📝 学术服务
 
@@ -48,7 +45,6 @@ author_profile: true
 - *2025.02*：🎉 论文 “[FSPDF: Few-Shot Learning with Progressive Dual-Domain Feature Fusion via Self-Supervised Learning](#fspdf)” 被 *Knowledge-Based Systems (KBS)* 接收。
 - *2024.08*：🎉 论文 “[基于自适应原型特征类矫正的小样本学习方法](#crapf)” 被 *自动化学报 (ACTA AUTOMATICA SINICA, AAS)* 接收。
 
----
 
 # 📝 论文发表
 
@@ -193,19 +189,4 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 </script>
 
-<script>
-document.addEventListener("DOMContentLoaded", function () {
-  if (window.location.pathname === "/zh/" || window.location.pathname === "/zh") {
-    const bio = document.querySelector(".author__bio");
-    if (bio) {
-      bio.innerHTML = "中南大学自动化学院博士研究生";
-    }
 
-    document.querySelectorAll(".author__urls a").forEach(link => {
-      const text = link.textContent.trim();
-      if (text === "Central South University") link.textContent = "中南大学";
-      if (text === "School of Automation") link.textContent = "自动化学院";
-    });
-  }
-});
-</script>
