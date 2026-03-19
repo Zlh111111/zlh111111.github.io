@@ -430,3 +430,62 @@
     }
   }
 }
+
+
+/* Mobile nav fix */
+@media (max-width: 768px) {
+  .greedy-nav {
+    min-width: 100%;
+    padding-right: 3.2rem;
+  }
+
+  .greedy-nav button {
+    display: block;
+    width: 44px;
+    height: 44px;
+    padding: 0;
+    border-radius: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+
+  .greedy-nav .visible-links {
+    display: flex;
+    align-items: center;
+    overflow-x: auto;
+    white-space: nowrap;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+    padding-right: 0.5rem;
+  }
+
+  .greedy-nav .visible-links::-webkit-scrollbar {
+    display: none;
+  }
+
+  .greedy-nav .visible-links li {
+    display: inline-flex;
+    flex: 0 0 auto;
+  }
+
+  .greedy-nav a {
+    margin: 0 0.6rem;
+    padding: 0.7rem 0;
+    font-size: 0.95rem;
+  }
+
+  .greedy-nav .hidden-links {
+    right: 0;
+    left: auto;
+    min-width: 180px;
+    max-width: calc(100vw - 2rem);
+    margin-top: 10px;
+    border-radius: 12px;
+    z-index: 9999;
+  }
+
+  .greedy-nav .hidden-links a {
+    padding: 0.85rem 1rem;
+    line-height: 1.4;
+  }
+}
