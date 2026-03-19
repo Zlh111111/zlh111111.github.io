@@ -431,3 +431,19 @@
   }
 }
 
+/* ===== 桌面端优化 ===== */
+@media (min-width: 769px) {
+  .greedy-nav button {
+    display: none !important;
+  }
+
+  .greedy-nav .hidden-links {
+    display: none !important;
+  }
+
+  .greedy-nav .visible-links {
+    overflow: visible !important;
+    white-space: nowrap;
+  }
+}
+
