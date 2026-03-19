@@ -9,6 +9,8 @@
 title                    : "Linhua Zou (邹林华)"
 description              : ""
 repository               : "Zlh111111/zlh111111.github.io"
+url                      : "https://zlh111111.github.io"
+baseurl                  : ""
 google_scholar_stats_use_cdn : true
 
 # google analytics
