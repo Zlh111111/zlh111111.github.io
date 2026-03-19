@@ -13,10 +13,8 @@ lang: zh
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<div style="margin-bottom: 0.3em; font-size: 0.9em;">
-  <a href="/" style="text-decoration: none; color: #555;">English</a>
-  <span style="margin: 0 4px; color: #aaa;">|</span>
-  <strong style="color: #000;">中文</strong>
+<div style="text-align: left; margin-bottom: 0.5em;">
+  <a href="/">English</a> / <strong>中文</strong>
 </div>
 
 
