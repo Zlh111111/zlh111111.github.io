@@ -160,8 +160,8 @@ Hong Zhao, Yangqing Zhong, Jie Jin, **Linhua Zou**
 
 # 🎖 Honors and Awards
 
-- *2025.10* 研究生国家奖学金
-- *2023.12* “华为杯”第二十届中国研究生数学建模竞赛，国家三等奖
+- *2025.10* National Scholarship for Graduate Students (China)
+- *2023.12* Third Prize, Huawei Cup – 20th China Graduate Mathematical Modeling Competition
 
 
 
