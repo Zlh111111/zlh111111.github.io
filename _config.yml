@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title_en                 : "Linhua Zou"
-title_zh                 : "邹林华"
+title_en                 : "     Linhua Zou"
+title_zh                 : "     邹林华"
 description              : ""
 repository               : "Zlh111111/zlh111111.github.io"
 url                      : "https://zlh111111.github.io"
@@ -27,8 +27,8 @@ author:
   name_en          : "Linhua Zou"
   name_zh          : "邹林华"
   avatar           : "/images/zlh.jpg"
-  bio_en           : "Ph.D. student at the School of Automation, Central South University."
-  bio_zh           : "中南大学自动化学院博士研究生"
+  bio_en           : "School of Automation, Central South University."
+  bio_zh           : "中南大学自动化学院"
   location_en      : "Changsha, China"
   location_zh      : "长沙，中国"
   employer_en      : 
