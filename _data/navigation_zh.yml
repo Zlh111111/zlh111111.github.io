@@ -1,0 +1,21 @@
+main:
+  - title: "关于我"
+    url: "/zh/#about-me"
+
+  - title: "学术服务"
+    url: "/zh/#academic-service"
+
+  - title: "新闻动态"
+    url: "/zh/#news"
+
+  - title: "论文发表"
+    url: "/zh/#publications"
+
+  - title: "/教育经历"
+    url: "/zh/#educations"
+
+  - title: "荣誉奖励"
+    url: "/zh/#honors-awards"
+
+  - title: "访客"
+    url: "/zh/#visitors"
