@@ -3,6 +3,7 @@ permalink: /zh/
 title: ""
 excerpt: ""
 author_profile: true
+lang: zh
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
