@@ -16,10 +16,10 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<div style="text-align: left; margin-bottom: 0.5em;">
-  <strong>English</strong> / <a href="/zh/">中文</a>
+<div class="lang-switch">
+  <span class="lang-switch__item is-active">English</span>
+  <a href="/zh/" class="lang-switch__item">中文</a>
 </div>
-
 
 
 
