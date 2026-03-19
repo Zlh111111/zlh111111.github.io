@@ -13,10 +13,13 @@ lang: zh
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<div class="lang-switch">
-  <a href="/" class="lang-switch__item">English</a>
-  <span class="lang-switch__item is-active">中文</span>
+<div class="page-lang-switch">
+  <div class="lang-switch">
+    <a href="/" class="lang-switch__item">English</a>
+    <span class="lang-switch__item is-active">中文</span>
+  </div>
 </div>
+
 
 
 <span class='anchor' id='about-me'></span>
