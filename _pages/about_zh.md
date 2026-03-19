@@ -28,9 +28,9 @@ lang: zh
 我目前已拟录取为中南大学自动化学院博士研究生，主要从事极端回归建模相关研究，导师为[汪运](https://faculty.csu.edu.cn/wangyun1/zh_CN/index.htm)教授。我本科毕业于闽南师范大学计算机学院，并在该校继续攻读硕士学位，师从[赵红](https://fhqxa.github.io//)教授。
 
 我的研究兴趣包括**计算机视觉 (Computer Vision, CV)**和**时间序列预测 (Time Series Forecasting, TSF）**。当前研究主要聚焦于以下方向：
-- **极值回归建模 (Extreme Regression Modeling)**
+- **极端回归建模 (Extreme Regression Modeling)**
 - **小样本学习 (Few-Shot Learning, FSL)**
-- **图神经网络 (Graph Neural Neyworks, GNNs)**
+- **图神经网络 (Graph Neural Networks, GNNs)**
 
 如有任何学术合作意向，欢迎通过邮箱与我联系：[linhuazou00@163.com](mailto:linhuazou00@163.com)
 
