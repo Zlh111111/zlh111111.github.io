@@ -17,7 +17,7 @@ lang: zh
 <span class='anchor' id='about-me'></span>
 
 <div class="page-header-with-lang">
-  <h2 class="page-title">👩 关于我</h2>
+  <h2 class="page-title">🤵🏻 关于我</h2>
 
   <div class="lang-switch">
     <a href="/" class="lang-switch__item">English</a>
