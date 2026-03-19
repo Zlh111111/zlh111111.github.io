@@ -9,7 +9,13 @@
   </div>
 
   <div class="author__content">
-    <h3 class="author__name">{{ author.name }}</h3>
+    <h3 class="author__name">
+      {% if page.lang == "zh" %}
+        {{ author.name_zh }}
+      {% else %}
+        {{ author.name_en }}
+      {% endif %}
+    </h3>
     {% if page.lang == "zh" %}
       {% if author.bio_zh %}<p class="author__bio">{{ author.bio_zh }}</p>{% endif %}
     {% else %}
