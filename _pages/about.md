@@ -16,10 +16,8 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<div style="margin-bottom: 0.3em; font-size: 0.9em;">
-  <strong style="color: #000;">English</strong>
-  <span style="margin: 0 4px; color: #aaa;">|</span>
-  <a href="/zh/" style="text-decoration: none; color: #555;">中文</a>
+<div style="text-align: left; margin-bottom: 0.5em;">
+  <strong>English</strong> / <a href="/zh/">中文</a>
 </div>
 
 
