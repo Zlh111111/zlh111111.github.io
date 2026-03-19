@@ -21,22 +21,22 @@ lang: zh
 <span class='anchor' id='about-me'></span>
 # 🧑 关于我
 
-我目前已拟录取为中南大学自动化学院博士研究生，导师为[汪运](https://faculty.csu.edu.cn/wangyun1/zh_CN/index.htm)教授，主要从事极端回归建模相关研究。我本科毕业于闽南师范大学计算机学院，并在该校继续攻读硕士学位，师从[赵红](https://fhqxa.github.io//)教授。
+我目前已拟录取为中南大学自动化学院博士研究生，主要从事极端回归建模相关研究，导师为[汪运](https://faculty.csu.edu.cn/wangyun1/zh_CN/index.htm)教授。我本科毕业于闽南师范大学计算机学院，并在该校继续攻读硕士学位，师从[赵红](https://fhqxa.github.io//)教授。
 
 我的研究兴趣包括**计算机视觉（CV）**和**时间序列预测（TSF）**。当前研究主要聚焦于以下方向：
-- **极值回归建模**
-- **小样本学习（FSL）**
-- **图神经网络（GNNs）**
+- **极值回归建模 (Extreme Regression Modeling)**
+- **小样本学习 (Few-Shot Learning, FSL)**
+- **图神经网络 (Graph Neural Neyworks, GNNs)**
 
-如有学术合作意向，欢迎通过邮箱与我联系：[linhuazou00@163.com](mailto:linhuazou00@163.com)
+如有任何学术合作意向，欢迎通过邮箱与我联系：[linhuazou00@163.com](mailto:linhuazou00@163.com)
 
-<span class='anchor' id='academic-service'></span>
+
 # 📝 学术服务
 
 - *Expert Systems with Applications (ESWA)* 审稿人
 - *Pattern Recognition (PR)* 审稿人
 
-<span class='anchor' id='news'></span>
+
 # 🔥 新闻动态
 
 - *2025.10*: &nbsp;🎉 论文 “[FCGNN: Fuzzy Cognitive Graph Neural Networks with Concept Evolution for Few-Shot Learning](#fcgnn)” 被 *IEEE Transactions on Fuzzy Systems (TFS)* 接收。 
@@ -45,7 +45,7 @@ lang: zh
 - *2025.02*: &nbsp;🎉 论文 “[FSPDF: Few-Shot Learning with Progressive Dual-Domain Feature Fusion via Self-Supervised Learning](#fspdf)” 被 *Knowledge-Based Systems (KBS)* 接收。
 - *2024.08*: &nbsp;🎉 论文 “[基于自适应原型特征类矫正的小样本学习方法](#crapf)” 被 *自动化学报 (Acta Automatica Sinica, AAS)* 接收。
 
-<span class='anchor' id='publications'></span>
+
 # 📝 论文发表
 
 <div class='paper-box' id="fcgnn">
@@ -148,20 +148,20 @@ lang: zh
   </div>
 </div>
 
-<span class='anchor' id='educations'></span>
+
 # 📖 教育经历
 
 - *2026.09 - 至今*，博士研究生，中南大学自动化学院，中国。
 - *2023.09 - 2026.06*，硕士，闽南师范大学计算机学院，中国。
 - *2019.09 - 2023.06*，本科，闽南师范大学计算机学院，中国。
 
-<span class='anchor' id='honors-awards'></span>
+
 # 🎖 荣誉奖励
 
 - *2025.10* 研究生国家奖学金
 - *2023.12* “华为杯”第二十届中国研究生数学建模竞赛国家三等奖
 
-<span class='anchor' id='visitors'></span>
+
 # 🌍 访客
 
 {% include visitor_map.html %}
