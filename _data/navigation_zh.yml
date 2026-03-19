@@ -12,7 +12,7 @@ main:
     url: "#publications"
 
   - title: "教育经历"
-    url: "educations"
+    url: "#educations"
 
   - title: "荣誉奖励"
     url: "#honors-awards"
