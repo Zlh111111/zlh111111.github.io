@@ -19,7 +19,7 @@ redirect_from:
 <span class="anchor" id="about-me"></span>
 
 <div class="page-header-with-lang">
-  <h2 class="page-title">👩 About Me</h2>
+  <h2 class="page-title">🤵🏻 About Me</h2>
 
   <div class="lang-switch">
     <span class="lang-switch__item is-active">English</span>
