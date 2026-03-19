@@ -411,14 +411,20 @@
   text-transform: uppercase;
 }
 
-/* language switch position */
-.page-lang-switch {
-  width: 100%;
+.page-header-with-lang {
   display: flex;
-  justify-content: flex-end;
-  margin: 0 0 1.2rem 0;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 1rem;
 }
 
+.page-title {
+  margin: 0;
+  font-size: 1.6rem; /* 跟你原来标题一致即可 */
+  font-weight: 700;
+}
+
+/* 保持你原来的按钮样式即可 */
 .lang-switch {
   display: inline-flex;
   align-items: center;
@@ -427,45 +433,21 @@
   background: #f3f4f6;
   border: 1px solid #d9dde3;
   border-radius: 999px;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
 }
 
 .lang-switch__item {
-  display: inline-flex;
+  min-width: 70px;
+  height: 36px;
+  padding: 0 0.9rem;
+  border-radius: 999px;
+  font-size: 0.95rem;
+  font-weight: 600;
+  display: flex;
   align-items: center;
   justify-content: center;
-  min-width: 76px;
-  height: 40px;
-  padding: 0 1rem;
-  border-radius: 999px;
-  font-size: 1rem;
-  font-weight: 600;
-  text-decoration: none !important;
-  color: #374151;
-  transition: all 0.2s ease;
-}
-
-.lang-switch__item:hover {
-  background: #ffffff;
-  color: #111827;
 }
 
 .lang-switch__item.is-active {
   background: #2563eb;
-  color: #ffffff;
-  box-shadow: 0 2px 8px rgba(37, 99, 235, 0.25);
-}
-
-@media (max-width: 768px) {
-  .page-lang-switch {
-    justify-content: flex-start;
-    margin: 0 0 1rem 0;
-  }
-
-  .lang-switch__item {
-    min-width: 68px;
-    height: 36px;
-    font-size: 0.95rem;
-    padding: 0 0.9rem;
-  }
+  color: #fff;
 }
