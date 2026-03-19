@@ -17,8 +17,8 @@ lang: zh
   <a href="/">English</a> / <strong>中文</strong>
 </div>
 
-
 <span class='anchor' id='about-me'></span>
+
 # 🧑 关于我
 
 我目前已拟录取为中南大学自动化学院博士研究生，主要从事极端回归建模相关研究，导师为[汪运](https://faculty.csu.edu.cn/wangyun1/zh_CN/index.htm)教授。我本科毕业于闽南师范大学计算机学院，并在该校继续攻读硕士学位，师从[赵红](https://fhqxa.github.io//)教授。
@@ -36,7 +36,7 @@ lang: zh
 - *Expert Systems with Applications (ESWA)* 审稿人
 - *Pattern Recognition (PR)* 审稿人
 
-
+<span class='anchor' id='about-me'></span>
 # 🔥 新闻动态
 
 - *2025.10*: &nbsp;🎉 论文 “[FCGNN: Fuzzy Cognitive Graph Neural Networks with Concept Evolution for Few-Shot Learning](#fcgnn)” 被 *IEEE Transactions on Fuzzy Systems (TFS)* 接收。 
