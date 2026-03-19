@@ -25,9 +25,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Linhua Zou (邹林华)"
   avatar           : "/images/zlh.jpg"
-  bio              : "Incoming PhD student at the School of Automation, Central South University."
-  location         : "Changsha, China"
-  employer         : 
+  bio_en           : "Incoming PhD student at the School of Automation, Central South University."
+  bio_zh           : "中南大学自动化学院博士研究生"
+  location_en      : "Changsha, China"
+  location_zh      : "长沙，中国"
+  employer_en      : 
+  employer_zh      : 
   pubmed           : 
   googlescholar    : 
   email            : "linhuazou00@163.com"
