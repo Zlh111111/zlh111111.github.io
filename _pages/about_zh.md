@@ -32,7 +32,7 @@ lang: zh
 - **小样本学习 (Few-Shot Learning, FSL)**
 - **图神经网络 (Graph Neural Networks, GNNs)**
 
-如有任何学术合作意向，欢迎通过邮箱与我联系：[linhuazou00@163.com](mailto:linhuazou00@163.com)
+如有任何学术合作意向，欢迎通过邮箱与我联系：[linhuazou00@163.com](mailto:linhuazou00@163.com) / [zlh1836065471@163.com](mailto:zlh1836065471@163.com).
 
 <span class='anchor' id='academic-service'></span>
 # 📝 学术服务
