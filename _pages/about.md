@@ -35,7 +35,7 @@ My research interests include **Computer Vision (CV)** and **Time Series Forecas
 - **Few-Shot Learning (FSL)**
 - **Graph Neural Networks (GNNs)**
 
-If you are seeking any form of academic cooperation, please feel free to email me at [linhuazou00@163.com](mailto:linhuazou00@163.com).
+If you are seeking any form of academic cooperation, please feel free to email me at [linhuazou00@163.com](mailto:linhuazou00@163.com) / [zlh1836065471@163.com](mailto:zlh1836065471@163.com).
 
 # 📝 Academic Service
 - Reviewer for *Expert Systems with Applications (ESWA)*
