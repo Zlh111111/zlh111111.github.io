@@ -37,8 +37,10 @@ lang: zh
 <span class='anchor' id='academic-service'></span>
 # 📝 学术服务
 
-- *Expert Systems with Applications (ESWA)* 审稿人
 - *Pattern Recognition (PR)* 审稿人
+- *Knowledge-Based Systems (KBS)* 审稿人
+- *Expert Systems with Applications (ESWA)* 审稿人
+
 
 <span class='anchor' id='news'></span>
 # 🔥 新闻动态
