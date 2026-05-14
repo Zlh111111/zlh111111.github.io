@@ -38,6 +38,7 @@ lang: zh
 # 📝 学术服务
 
 - *Pattern Recognition (PR)* 审稿人
+- *Neural Networks (NN)* 审稿人
 - *Knowledge-Based Systems (KBS)* 审稿人
 - *Expert Systems with Applications (ESWA)* 审稿人
 
