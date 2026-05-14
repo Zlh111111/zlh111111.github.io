@@ -39,6 +39,7 @@ If you are seeking any form of academic cooperation, please feel free to email m
 
 # 📝 Academic Service
 - Reviewer for *Pattern Recognition (PR)*
+- Reviewer for *Neural Networks (NN)*
 - Reviewer for *Knowledge-Based Systems (KBS)*
 - Reviewer for *Expert Systems with Applications (ESWA)*
 
