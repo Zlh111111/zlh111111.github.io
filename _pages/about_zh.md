@@ -41,6 +41,7 @@ lang: zh
 - *Neural Networks (NN)* 审稿人
 - *Knowledge-Based Systems (KBS)* 审稿人
 - *Expert Systems with Applications (ESWA)* 审稿人
+- *Computer Vision and Image Understanding (CVIU)* 审稿人
 
 
 <span class='anchor' id='news'></span>
