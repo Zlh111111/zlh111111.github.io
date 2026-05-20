@@ -6,7 +6,7 @@
 
         {% if page.lang == "zh" %}
           {% assign nav_main = site.data.navigation_zh.main %}
-          {% assign home_url = "/zh/#about-me" %}
+          {% assign home_url = "/zh/#about-me-zh" %}
           {% assign home_title = "首页" %}
         {% else %}
           {% assign nav_main = site.data.navigation.main %}
@@ -16,12 +16,12 @@
 
         <ul class="visible-links">
           <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item">
-            <a href="{{ home_url }}">{{ home_title }}</a>
+            <a href="{{ home_url }}" target="_self">{{ home_title }}</a>
           </li>
 
           {% for link in nav_main %}
             <li class="masthead__menu-item">
-              <a href="{{ link.url }}">{{ link.title }}</a>
+              <a href="{{ link.url }}" target="_self">{{ link.title }}</a>
             </li>
           {% endfor %}
         </ul>

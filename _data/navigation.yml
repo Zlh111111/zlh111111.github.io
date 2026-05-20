@@ -4,21 +4,21 @@ main:
     url: "/#about-me"
 
   - title: "Academic Service"
-    url: "/#-academic-service"
+    url: "/#academic-service"
 
   - title: "News"
-    url: "/#-news"
+    url: "/#news"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#publications"
 
   - title: "Educations"
-    url: "/#-educations"
+    url: "/#educations"
 
   - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "/#honors-awards"
 
   - title: "Visitors"
-    url: "/#-visitors"
+    url: "/#visitors"
 
   
