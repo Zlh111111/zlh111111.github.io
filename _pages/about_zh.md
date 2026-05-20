@@ -13,14 +13,15 @@ author_profile: true
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<div class="lang-switch" style="text-align:right; margin-bottom: 1em;">
-  <a class="lang-switch__item" href="/" target="_self">English</a>
-  <span class="lang-switch__item is-active">中文</span>
-</div>
-
 <span class='anchor' id='about-me-zh'></span>
 
-## 🤵🏻 关于我
+<div class="page-header-with-lang">
+  <h2 class="page-title">🤵🏻 关于我</h2>
+  <div class="lang-switch">
+    <a class="lang-switch__item" href="/" target="_self">English</a>
+    <span class="lang-switch__item is-active">中文</span>
+  </div>
+</div>
 
 我目前已拟录取为中南大学自动化学院博士研究生，主要从事极端回归建模相关研究，导师为[汪运](https://faculty.csu.edu.cn/wangyun1/zh_CN/index.htm)教授。我本科毕业于闽南师范大学计算机学院，并在该校继续攻读硕士学位，师从[赵红](https://fhqxa.github.io//)教授。
 

@@ -16,14 +16,15 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<div class="lang-switch" style="text-align:right; margin-bottom: 1em;">
-  <span class="lang-switch__item is-active">English</span>
-  <a class="lang-switch__item" href="/zh/" target="_self">中文</a>
-</div>
-
 <span class="anchor" id="about-me"></span>
 
-## 🤵🏻 About Me
+<div class="page-header-with-lang">
+  <h2 class="page-title">🤵🏻 About Me</h2>
+  <div class="lang-switch">
+    <span class="lang-switch__item is-active">English</span>
+    <a class="lang-switch__item" href="/zh/" target="_self">中文</a>
+  </div>
+</div>
 
 I am currently pursuing a Ph.D. at the School of Automation at Central South University, where I am conducting research on extreme regression modeling under the supervision of [Yun Wang](https://faculty.csu.edu.cn/wangyun1/zh_CN/index.htm). I graduated from the School of Computer Science at Minnan Normal University with a bachelor's degree and earned my master's degree from the same school under the supervision of [Hong Zhao](https://fhqxa.github.io//). 
 
