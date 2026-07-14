@@ -47,6 +47,7 @@ lang: zh
 <span class='anchor' id='news'></span>
 # 🔥 新闻动态
 
+- *2026.7*: &nbsp;🎉 论文 “[OFMFS: Optimizing Feature Diversity via Multi-Perspective Self-Supervised Tasks for Few-Shot Image Classification](#ofmfs)” 被 *Information Sciences (INS)* 接收。
 - *2025.10*: &nbsp;🎉 论文 “[FCGNN: Fuzzy Cognitive Graph Neural Networks with Concept Evolution for Few-Shot Learning](#fcgnn)” 被 *IEEE Transactions on Fuzzy Systems (TFS)* 接收。 
 - *2025.04*: &nbsp;🎉 论文 “[FSAKE: Few-Shot Graph Learning via Adaptive Neighbor Class Knowledge Embedding](#fsake)” 被 *Expert Systems with Applications (ESWA)* 接收。
 - *2025.04*: &nbsp;🎉 论文 “[Multi-Granularity Awareness via Cross Fusion for Few-Shot Learning](#macf)” 被 *Information Sciences (INS)* 接收。
@@ -55,6 +56,26 @@ lang: zh
 
 <span class='anchor' id='publications'></span>
 # 📝 论文发表
+
+<div class='paper-box' id="ofmfs">
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">INS 2026</div>
+      <img src='images/2026-INS-OFMFS.png' alt="OFMFS" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[OFMFS: Optimizing Feature Diversity via Multi-Perspective Self-Supervised Tasks for Few-Shot Image Classification](https://doi.org/10.1016/j.ins.2026.123901)
+
+李冬卿, **邹林华**, 林文成, 赵红\*
+
+*Information Sciences, 2026, 123901.*
+
+[\[Paper\]](https://doi.org/10.1016/j.ins.2026.123901) [\[Code\]](https://github.com/Zlh111111/OFMFS)
+
+  </div>
+</div>
 
 <div class='paper-box' id="fcgnn">
   <div class='paper-box-image'>
