@@ -47,7 +47,7 @@ lang: zh
 <span class='anchor' id='news'></span>
 # 🔥 新闻动态
 
-- *2026.7*: &nbsp;🎉 论文 “[OFMFS: Optimizing Feature Diversity via Multi-Perspective Self-Supervised Tasks for Few-Shot Image Classification](#ofmfs)” 被 *Information Sciences (INS)* 接收。
+- *2026.07*: &nbsp;🎉 论文 “[OFMFS: Optimizing Feature Diversity via Multi-Perspective Self-Supervised Tasks for Few-Shot Image Classification](#ofmfs)” 被 *Information Sciences (INS)* 接收。
 - *2025.10*: &nbsp;🎉 论文 “[FCGNN: Fuzzy Cognitive Graph Neural Networks with Concept Evolution for Few-Shot Learning](#fcgnn)” 被 *IEEE Transactions on Fuzzy Systems (TFS)* 接收。 
 - *2025.04*: &nbsp;🎉 论文 “[FSAKE: Few-Shot Graph Learning via Adaptive Neighbor Class Knowledge Embedding](#fsake)” 被 *Expert Systems with Applications (ESWA)* 接收。
 - *2025.04*: &nbsp;🎉 论文 “[Multi-Granularity Awareness via Cross Fusion for Few-Shot Learning](#macf)” 被 *Information Sciences (INS)* 接收。
