@@ -48,6 +48,7 @@ If you are seeking any form of academic cooperation, please feel free to email m
 
 
 # 🔥 News
+- *2026.07*: &nbsp;🎉 Our paper “[OFMFS: Optimizing Feature Diversity via Multi-Perspective Self-Supervised Tasks for Few-Shot Image Classification](#ofmfs)” is accepted by *Information Sciences (INS)*.
 - *2025.10*: &nbsp;🎉 Our paper “[FCGNN: Fuzzy Cognitive Graph Neural Networks with Concept Evolution for Few-Shot Learning](#fcgnn)” is accepted by *IEEE Transactions on Fuzzy Systems (TFS)*. 
 - *2025.04*: &nbsp;🎉 Our paper “[FSAKE: Few-Shot Graph Learning via Adaptive Neighbor Class Knowledge Embedding](#fsake)” is accepted by *Expert Systems with Applications (ESWA)*.
 - *2025.04*: &nbsp;🎉 Our paper “[Multi-Granularity Awareness via Cross Fusion for Few-Shot Learning](#macf)” is accepted by *Information Sciences (INS)*.
@@ -56,6 +57,26 @@ If you are seeking any form of academic cooperation, please feel free to email m
 
 
 # 📝 Publications 
+
+<div class='paper-box' id="ofmfs">
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">INS 2026</div>
+      <img src='images/2026-INS-OFMFS.png' alt="OFMFS" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[OFMFS: Optimizing Feature Diversity via Multi-Perspective Self-Supervised Tasks for Few-Shot Image Classification](https://doi.org/10.1016/j.ins.2026.123901)
+
+Dongqing Li, **Linhua Zou**, Wencheng Lin, Hong Zhao\*
+
+*Information Sciences, 2026, 123901.*
+
+[\[Paper\]](https://doi.org/10.1016/j.ins.2026.123901) [\[Code\]](https://github.com/Zlh111111/OFMFS)
+
+  </div>
+</div>
 
 <div class='paper-box' id="fcgnn">
   <div class='paper-box-image'>
