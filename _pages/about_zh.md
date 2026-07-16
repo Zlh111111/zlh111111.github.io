@@ -61,7 +61,7 @@ lang: zh
   <div class='paper-box-image'>
     <div>
       <div class="badge">INS 2026</div>
-      <img src='images/2026-INS-OFMFS.png' alt="OFMFS" width="100%">
+      <img src='/images/2026-INS-OFMFS.png' alt="OFMFS" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
