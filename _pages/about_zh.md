@@ -72,7 +72,7 @@ lang: zh
 
 *Information Sciences, 2026, 123901.*
 
-[\[Paper\]](papers/2026-INS-OFMFS.pdf) [\[Code\]](https://github.com/Zlh111111/OFMFS)
+[\[论文\]](/papers/2026-INS-OFMFS.pdf) [\[Code\]](https://github.com/Zlh111111/OFMFS)
 
   </div>
 </div>
