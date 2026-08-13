@@ -73,7 +73,7 @@ Dongqing Li, **Linhua Zou**, Wencheng Lin, Hong Zhao\*
 
 *Information Sciences, 2026, 123901.*
 
-[\[Paper\]](https://doi.org/10.1016/j.ins.2026.123901) [\[Code\]](https://github.com/Zlh111111/OFMFS)
+[\[Paper\]](papers/2026-INS-OFMFS.pdf) [\[Code\]](https://github.com/Zlh111111/OFMFS)
 
   </div>
 </div>
