@@ -38,6 +38,7 @@ My research interests include **Computer Vision (CV)** and **Time Series Forecas
 If you are seeking any form of academic cooperation, please feel free to email me at [264601023@csu.edu.cn](mailto:264601023@csu.edu.cn) / [linhuazou00@163.com](mailto:linhuazou00@163.com) / [zlh1836065471@163.com](mailto:zlh1836065471@163.com).
 
 # 📝 Academic Service
+- Reviewer for *AAAI2027、WWW2027*
 - Reviewer for *Pattern Recognition (PR)*
 - Reviewer for *Neural Networks (NN)*
 - Reviewer for *Knowledge-Based Systems (KBS)*
