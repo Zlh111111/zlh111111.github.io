@@ -37,6 +37,7 @@ lang: zh
 <span class='anchor' id='academic-service'></span>
 # 📝 学术服务
 
+- *AAAI2027、WWW2027* 审稿人
 - *Pattern Recognition (PR)* 审稿人
 - *Neural Networks (NN)* 审稿人
 - *Knowledge-Based Systems (KBS)* 审稿人
